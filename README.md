@@ -1,2 +1,2 @@
 # mthree_beta
-advanced version of mthree program
+This is the advanced version of mthree program.
